@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitched.png">
+<SubTexture name="glitched battlefield0000" x="0" y="0" width="779" height="302" frameX="0" frameY="0" frameWidth="779" frameHeight="302" />
+<SubTexture name="glitched battlefield0001" x="0" y="302" width="779" height="302" frameX="0" frameY="0" frameWidth="779" frameHeight="302" />
+<SubTexture name="glitched battlefield0002" x="779" y="0" width="779" height="302" frameX="0" frameY="0" frameWidth="779" frameHeight="302" />
+<SubTexture name="glitched battlefield0003" x="779" y="302" width="779" height="302" frameX="0" frameY="0" frameWidth="779" frameHeight="302" />
+</TextureAtlas>
