@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PSonic.png"><SubTexture name="PSonic Down0000" x="0" y="0" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Down0001" x="174" y="0" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Down0002" x="348" y="0" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Down0003" x="522" y="0" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Down0004" x="696" y="0" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Idle0000" x="0" y="134" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Idle0001" x="174" y="134" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Idle0002" x="348" y="134" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Idle0003" x="522" y="134" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Idle0004" x="696" y="134" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Left0000" x="0" y="268" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Left0001" x="174" y="268" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Left0002" x="348" y="268" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Left0003" x="522" y="268" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Left0004" x="696" y="268" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Right0000" x="0" y="402" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Right0001" x="174" y="402" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Right0002" x="348" y="402" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Right0003" x="522" y="402" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Right0004" x="696" y="402" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Up0000" x="0" y="536" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Up0001" x="174" y="536" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Up0002" x="348" y="536" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Up0003" x="522" y="536" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+<SubTexture name="PSonic Up0004" x="696" y="536" width="174" height="134" frameX="0" frameY="0" frameWidth="174" frameHeight="134" />
+</TextureAtlas>
