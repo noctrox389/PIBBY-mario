@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "corruptedmushrooms",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		181,
+		49,
+		32
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"corrupted mushrooms",
+			"mario-nes",
+			[
+				181,
+				49,
+				32
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}
